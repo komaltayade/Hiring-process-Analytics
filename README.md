@@ -2,7 +2,7 @@
 
 Hiring Process Analytics
 
-Shared by: Komal Tayade
+By: Komal Tayade
 
 
 📌 Project Overview
